@@ -1,19 +1,31 @@
-<img width="1584" height="396" alt="Cópia de Banner LinkedIn - Letícia Santos (1)" src="https://github.com/user-attachments/assets/efaf049b-0cea-4e32-bdcc-dd4e79f952f4" />
-
-## ✨ Olá, eu sou Letícia Santos! ✨ ##
-
-<p> Sou uma <strong>Desenvolvedora Front-end</strong> com 4 anos de experiência, especializada na criação de interfaces web modernas, responsivas e acessíveis. Minha atuação é focada em <strong>React, Next.js, Vue.js e TypeScript</strong>, com forte ênfase em qualidade de código, padronização de projetos e otimização da experiência do usuário. Tenho experiência em transformar protótipos de design em aplicações funcionais, garantindo fidelidade visual, performance e SEO. Busco constantemente aprimorar minhas habilidades e expandir para o desenvolvimento full-stack, com conhecimentos em Node.js, testes automatizados e arquitetura de software. Sou analítica, proativa e colaboro eficazmente em equipes multidisciplinares. </p>
-
-<br/>
-
-### Entre em contato comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/devleticiagvsantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discordapp.com/users/lele_gabrielle" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<p align="center">
   <a href="https://lvtechstudio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/devleticiagvsantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discordapp.com/users/santosletz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="mailto:dev.leticiasantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<img width="1584" height="396" alt="Cópia de Banner LinkedIn - Letícia Santos (1)" src="https://github.com/user-attachments/assets/efaf049b-0cea-4e32-bdcc-dd4e79f952f4" />
+
+---
+
+<br/>
+
+<div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=SantosLet&theme=modern-lilac&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=600&card_height=235" alt="GitHub Streak" />
+    </a>
+<div>
+
+<br/>
+
+<h1 align="left"> ✨ Olá, eu sou Letícia Santos! ✨</h1>
+
+<p align="justify">
+  Sou uma <strong>Desenvolvedora Front-end</strong> com 4 anos de experiência, especializada na criação de interfaces web modernas, responsivas e acessíveis. Minha atuação é focada em <strong>React, Next.js, Vue.js e TypeScript</strong>, com forte ênfase em qualidade de código, padronização de projetos e otimização da experiência do usuário. Tenho experiência em transformar protótipos de design em aplicações funcionais, garantindo fidelidade visual, performance e SEO. Busco constantemente aprimorar minhas habilidades e expandir para o desenvolvimento full-stack, com conhecimentos em Node.js, testes automatizados e arquitetura de software. Sou analítica, proativa e colaboro eficazmente em equipes multidisciplinares.
+</p>
+
+<br/>
 
 ### Habilidades e Tecnologias
 <p align="left">
@@ -43,39 +55,24 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
 </p>
 
----
+<br/>
 
-<div>
-    <img width="49%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160359168&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=268f00&bar_color_cover=false" alt="Spotify Now Playing"/>
-    <td width="50%">
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=SantosLet&theme=dark )](https://git.io/streak-stats )
-    </td>
-  </tr>
-<div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-        <!--RECENT_ACTIVITY:start-->
-        <!--RECENT_ACTIVITY:end-->
-    </td>
-    <td width="50%">
-      <!--START_SECTION:waka--><!--END_SECTION:waka-->
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SantosLet/SantosLet/refs/heads/output/github-snake-dark.svg" alt="Snake animation"/>
+</div>
 
 <br/>
 
-<div>
+---
+
+<br/>
+
+<div align="center">
     <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview Dark" />
     <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantosLet/SantosLet/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/SantosLet/SantosLet/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SantosLet/SantosLet/output/dist/github-snake.gif" />
-</picture>
+<div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
