@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.WAKA_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LINES_OF_CODE: "True"   # Ativa a exibição do total de linhas de código
           SHOW_PROFILE_VIEWS: "False"  # Desativa a contagem de visualizações do perfil
