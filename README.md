@@ -45,16 +45,13 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160359168&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=268f00&bar_color_cover=false" alt="Spotify Now Playing"/>
-    </td>
+<div>
+    <img width="49%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160359168&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=268f00&bar_color_cover=false" alt="Spotify Now Playing"/>
     <td width="50%">
       [![GitHub Streak](https://streak-stats.demolab.com/?user=SantosLet&theme=dark )](https://git.io/streak-stats )
     </td>
   </tr>
-</table>
+<div>
 
 <table width="100%">
   <tr>
@@ -70,22 +67,10 @@
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-        <a href="https://github.com/SantosLet/github-simple-stats">
-            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview Dark" />
-            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-light-mode-only" alt="Stats Overview Light" />
-        </a>
-    </td>
-    <td width="50%">
-        <a href="https://github.com/SantosLet/github-simple-stats">
-            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
-            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-light-mode-only" alt="Top Langs Light" />
-        </a>
-    </td>
-  </tr>
-</table>
+<div>
+    <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview Dark" />
+    <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
+</div>
 
 ---
 
