@@ -77,5 +77,37 @@
 
 <div>
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222.76%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 37.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in Vue** 
+
+```text
+Vue                      3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Zig                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SantosLet/SantosLet/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/06/2026 15:58:04 UTC
 <!--END_SECTION:waka-->
 </div>
