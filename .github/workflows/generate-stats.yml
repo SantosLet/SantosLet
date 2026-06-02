@@ -1,0 +1,10 @@
+    - name: Commit to the output branch of repo
+      run: |
+        git config --global user.name "github-stats[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}
+        git add .
+        git commit -m 'temp commit' || echo
+        git checkout output 2>/dev/null || git checkout --orphan output && git rm -rf . && git checkout main -- generated/
+        git commit -m 'Update generated files' || echo
+        git push origin output -f

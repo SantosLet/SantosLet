@@ -1,0 +1,22 @@
+name: Waka Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa uma vez por dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Dev Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          SHOW_PROJECTS: "True"
+          LOCALE: "pt-BR"
+          SECTION_NAME: "waka"
+          # SHOW_OS: "False"
+          # SHOW_LINES_OF_CODE: "True"
