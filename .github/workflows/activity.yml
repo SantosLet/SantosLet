@@ -20,3 +20,4 @@ jobs:
           COMMIT_MSG: "Atualizando atividade recente ao README" 
           MAX_LINES: 5 
           TARGET_FILE: README.md 
+          ACTIVITY_MARKER: "activity"

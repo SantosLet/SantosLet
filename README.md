@@ -47,10 +47,10 @@
 
 <table width="100%">
   <tr>
-    <td width="25%">
+    <td width="50%">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160359168&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=268f00&bar_color_cover=false" alt="Spotify Now Playing"/>
     </td>
-    <td width="75%">
+    <td width="50%">
       [![GitHub Streak](https://streak-stats.demolab.com/?user=SantosLet&theme=dark )](https://git.io/streak-stats )
     </td>
   </tr>
@@ -59,8 +59,8 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <!--START_SECTION:activity-->
-      <!--END_SECTION:activity-->
+        <!--RECENT_ACTIVITY:start-->
+        <!--RECENT_ACTIVITY:end-->
     </td>
     <td width="50%">
       <!--START_SECTION:waka--><!--END_SECTION:waka-->
@@ -73,10 +73,16 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SantosLet&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats Overview"/>
+        <a href="https://github.com/SantosLet/github-simple-stats">
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview Dark" />
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-light-mode-only" alt="Stats Overview Light" />
+        </a>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosLet&layout=compact&theme=dark" alt="GitHub Stats Languages"/>
+        <a href="https://github.com/SantosLet/github-simple-stats">
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-light-mode-only" alt="Top Langs Light" />
+        </a>
     </td>
   </tr>
 </table>
