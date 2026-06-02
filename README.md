@@ -73,10 +73,16 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SantosLet&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats Overview"/>
+        <a href="https://github.com/SantosLet/github-simple-stats">
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview Dark" />
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-light-mode-only" alt="Stats Overview Light" />
+        </a>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosLet&layout=compact&theme=dark" alt="GitHub Stats Languages"/>
+        <a href="https://github.com/SantosLet/github-simple-stats">
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
+            <img src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-light-mode-only" alt="Top Langs Light" />
+        </a>
     </td>
   </tr>
 </table>
