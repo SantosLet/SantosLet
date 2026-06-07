@@ -77,8 +77,6 @@
 
 <div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222.76%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -149,6 +147,6 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SantosLet/SantosLet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 02:31:45 UTC
+ Last Updated on 07/06/2026 13:19:21 UTC
 <!--END_SECTION:waka-->
 </div>
