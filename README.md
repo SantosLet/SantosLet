@@ -77,7 +77,7 @@
 
 <div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222.76%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,16 +120,21 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 mins             ████████████░░░░░░░░░░░░░   46.15 % 
+Vue                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+SCSS                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+intera                   27 mins             ███████████████████████░░   93.74 % 
+Projetos                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -149,6 +154,6 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SantosLet/SantosLet/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 02:35:42 UTC
+ Last Updated on 14/06/2026 13:26:51 UTC
 <!--END_SECTION:waka-->
 </div>
