@@ -60,12 +60,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SantosLet/SantosLet/refs/heads/output/github-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-<br/>
-
 ---
 
 <br/>
