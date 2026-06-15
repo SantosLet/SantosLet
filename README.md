@@ -74,32 +74,3 @@
     <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview Dark" />
     <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
 </div>
-
-<br/>
-
-<div>
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               13 mins             ████████████░░░░░░░░░░░░░   46.15 % 
-Vue                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-SCSS                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-intera                   27 mins             ███████████████████████░░   93.74 % 
-Projetos                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-
-💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
-</div>
