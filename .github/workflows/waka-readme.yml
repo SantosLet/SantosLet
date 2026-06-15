@@ -14,11 +14,11 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.WAKA_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Desabilita todas as seções de texto
-          SHOW_LANGUAGE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
@@ -28,5 +28,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOCATION: "False"
           SHOW_FULL_PROJECTS: "False"
-          # Habilita apenas o gráfico de barras da atividade
-          SHOW_CHART: "True"
+          SHOW_CHART: "False"
