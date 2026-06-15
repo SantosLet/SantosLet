@@ -75,6 +75,8 @@
     <img width="49%" src="https://raw.githubusercontent.com/SantosLet/github-simple-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Top Langs Dark" />
 </div>
 
+<br/>
+
 <div>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
