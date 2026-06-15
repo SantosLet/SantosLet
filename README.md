@@ -77,83 +77,13 @@
 
 <div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222.76%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 37.6 kB Used in GitHub's Storage 
- > 
-> 🏆 46 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-🌆 Daytime                37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-🌃 Evening                72 commits          ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌙 Night                  115 commits         ████████████░░░░░░░░░░░░░   46.37 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Tuesday                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                50 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               13 mins             ████████████░░░░░░░░░░░░░   46.15 % 
-Vue                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-SCSS                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-intera                   27 mins             ███████████████████████░░   93.74 % 
-Projetos                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-
-💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Vue** 
-
-```text
-Vue                      3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Zig                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2020%20mins-blue?style=flat)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/SantosLet/SantosLet/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 13:26:51 UTC
+ Last Updated on 15/06/2026 01:18:48 UTC
 <!--END_SECTION:waka-->
 </div>
