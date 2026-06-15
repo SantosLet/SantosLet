@@ -77,13 +77,32 @@
 
 <div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2020%20mins-blue?style=flat)
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               13 mins             ████████████░░░░░░░░░░░░░   46.15 % 
+Vue                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+SCSS                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+
+🔥 Editors: 
+VS Code                  29 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+intera                   27 mins             ███████████████████████░░   93.74 % 
+Projetos                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+
+💻 Operating System: 
+Windows                  29 mins             █████████████████████████   100.00 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/SantosLet/SantosLet/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 01:18:48 UTC
+ Last Updated on 15/06/2026 01:27:34 UTC
 <!--END_SECTION:waka-->
 </div>
