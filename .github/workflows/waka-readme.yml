@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Executa todos os dias às 00:00 UTC
     - cron: '0 */12 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update WakaTime Stats
@@ -14,6 +14,19 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.WAKA_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LINES_OF_CODE: "True"   # Ativa a exibição do total de linhas de código
-          SHOW_PROFILE_VIEWS: "False"  # Desativa a contagem de visualizações do perfil
-          # Adicione ou modifique outras flags conforme sua preferência
+          # Desabilita todas as seções de texto
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOCATION: "False"
+          SHOW_FULL_PROJECTS: "False"
+          # Habilita apenas o gráfico de barras da atividade
+          SHOW_CHART: "True"
