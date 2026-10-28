@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner LinkedIn - Letícia Santos" src="https://github.com/user-attachments/assets/d9b266da-3d7b-4da1-92b9-448e0f869867" />
+<img width="1584" height="396" alt="Cópia de Cópia de Banner LinkedIn - Letícia Santos" src="https://github.com/user-attachments/assets/e37c7c5d-c615-4e81-8823-02322a878268" />
 
 <p></p>
 
