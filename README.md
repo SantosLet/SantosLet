@@ -24,19 +24,7 @@
 <h1 align="left"> ✨ Olá, eu sou Letícia Santos! ✨</h1>
 
 <p align="justify">
-  Sou <strong>Desenvolvedora Full Stack</strong> com <strong>4 anos de experiência em desenvolvimento de software</strong>, com uma trajetória consolidada em front-end e atuação em expansão no back-end. Meu foco está em transformar necessidades de negócio em soluções digitais funcionais, escaláveis e de fácil manutenção.
-</p>
-
-<p align="justify">
-  No front-end, trabalho com <strong>Vue.js, Nuxt.js, React.js, Next.js e TypeScript</strong>, construindo interfaces responsivas, acessíveis e performáticas. Tenho atenção à usabilidade, fidelidade visual e qualidade do código, com integração a APIs e desenvolvimento de componentes reutilizáveis e bem estruturados.
-</p>
-
-<p align="justify">
-  No back-end, atuo com <strong>C#, .NET e SQL</strong>, desenvolvendo e integrando <strong>APIs REST</strong>, realizando sustentação de sistemas legados e implementando automações. Também aplico <strong>engenharia de prompts</strong> para otimizar processos e apoiar soluções tecnológicas.
-</p>
-
-<p align="justify">
-  Aprimoro continuamente meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e testes automatizados. Tenho perfil analítico, colaborativo e facilidade para aprender novas tecnologias, valorizando soluções que conciliam qualidade técnica, experiência do usuário e impacto para o negócio.
+  Sou <strong>Desenvolvedora Full Stack</strong> com 4 anos de experiência, base sólida em front-end e atuação crescente em back-end. Desenvolvo interfaces, APIs e automações com <strong>Vue.js, Nuxt.js, TypeScript, C#, .NET e SQL</strong>, priorizando código organizado e soluções de fácil manutenção.
 </p>
 
 <br/>
