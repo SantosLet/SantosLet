@@ -24,7 +24,19 @@
 <h1 align="left"> ✨ Olá, eu sou Letícia Santos! ✨</h1>
 
 <p align="justify">
-  Sou uma <strong>Desenvolvedora Front-end</strong> com 4 anos de experiência, especializada na criação de interfaces web modernas, responsivas e acessíveis. Minha atuação é focada em <strong>React, Next.js, Vue.js e TypeScript</strong>, com forte ênfase em qualidade de código, padronização de projetos e otimização da experiência do usuário. Tenho experiência em transformar protótipos de design em aplicações funcionais, garantindo fidelidade visual, performance e SEO. Busco constantemente aprimorar minhas habilidades e expandir para o desenvolvimento full-stack, com conhecimentos em Node.js, testes automatizados e arquitetura de software. Sou analítica, proativa e colaboro eficazmente em equipes multidisciplinares.
+  Sou <strong>Desenvolvedora Full Stack</strong> com <strong>4 anos de experiência em desenvolvimento de software</strong>, com uma trajetória consolidada em front-end e atuação em expansão no back-end. Meu foco está em transformar necessidades de negócio em soluções digitais funcionais, escaláveis e de fácil manutenção.
+</p>
+
+<p align="justify">
+  No front-end, trabalho com <strong>Vue.js, Nuxt.js, React.js, Next.js e TypeScript</strong>, construindo interfaces responsivas, acessíveis e performáticas. Tenho atenção à usabilidade, fidelidade visual e qualidade do código, com integração a APIs e desenvolvimento de componentes reutilizáveis e bem estruturados.
+</p>
+
+<p align="justify">
+  No back-end, atuo com <strong>C#, .NET e SQL</strong>, desenvolvendo e integrando <strong>APIs REST</strong>, realizando sustentação de sistemas legados e implementando automações. Também aplico <strong>engenharia de prompts</strong> para otimizar processos e apoiar soluções tecnológicas.
+</p>
+
+<p align="justify">
+  Aprimoro continuamente meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e testes automatizados. Tenho perfil analítico, colaborativo e facilidade para aprender novas tecnologias, valorizando soluções que conciliam qualidade técnica, experiência do usuário e impacto para o negócio.
 </p>
 
 <br/>
@@ -48,6 +60,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
